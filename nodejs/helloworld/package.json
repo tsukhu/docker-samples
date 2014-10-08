@@ -1,0 +1,10 @@
+{
+  "name": "docker-node-sample",
+  "version": "0.0.1",
+  "description": "Docker test app using node JS",
+  "main": "index.js",
+  "author": "tksukhu@gmail.com",
+  "dependencies": {
+    "express": "*"
+  }
+}
