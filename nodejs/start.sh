@@ -5,7 +5,7 @@ rm -rf docker-samples; true
 
 git clone git@github.com:tsukhu/docker-samples.git
 
-cd docker-samples/nodejs
+cd docker-samples/nodejs/helloword
 
 npm install
 
