@@ -2,5 +2,5 @@
 * This provides an implementation of the same. I plan to extend this later on to support multiple processes so that I can run MongoDB and NodeJS together
 * This assumes you have Docker installed and running
 * Deploy and Run Helloworld App 
-* Step 1: Build `docker build -t <username>/my-nodejs-webserver .`
-* Step 2: Run `docker run -p 8080:8080 <username>/my-nodejs-webserver`
+* Step 1: Build "docker build -t <username>/my-nodejs-webserver ."
+* Step 2: Run "docker run -p 8080:8080 <username>/my-nodejs-webserver"
