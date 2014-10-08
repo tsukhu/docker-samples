@@ -1,11 +1,11 @@
 cd /tmp
 
 # try to remove the repo if it already exists
-rm -rf <git repo name>; true
+rm -rf docker-samples; true
 
-git clone <remote git repo>
+git clone git@github.com:tsukhu/docker-samples.git
 
-cd <git repo name>
+cd docker-samples/nodejs
 
 npm install
 
